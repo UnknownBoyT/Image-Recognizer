@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+    color: cyan;
+}
+.heading{
+    width: 80%;
+    font-size: 20 px;
+}
+#camera{
+    border: darkgray 2px dashed;
+    width: 350px;
+    height: 300px;
+
+}
+.nameofobjects,#objectName,#objectAcc{
+    color: chartreuse;
+}
